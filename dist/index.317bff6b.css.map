@@ -1,1 +1,0 @@
-{"mappings":"AACA;;;;;;AAMA;;;;AAIA","sources":["index.less"],"sourcesContent":["\nhtml, body {\n\twidth: 100vw;\n\theight: 100vh;\n\toverflow: clip;\n}\n\nbb {\n\tdisplay: flex;\n}\n\ndb {\n\tdisplay: none;\n}\n\t\n"],"names":[],"version":3,"file":"index.317bff6b.css.map","sourceRoot":"/__parcel_source_root/"}
