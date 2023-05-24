@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,QAAQ;IAChB,QAAQ,GAAG,CAAC;AACb;AAEA,SAAS,OAAO;IACf;AACD;AAEA","sources":["index.ts"],"sourcesContent":["function print() {\n\tconsole.log('logged in. welcome, x');\n}\n\nfunction main() {\n\tprint();\n}\n\nmain();\n"],"names":[],"version":3,"file":"index.242b51c6.js.map","sourceRoot":"/__parcel_source_root/"}
