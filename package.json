@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "test": "parcel index.pug"
+    "test": "parcel index.pug",
+		"start": "parcel build index.pug --no-cache"
   },
   "repository": {
     "type": "git",
